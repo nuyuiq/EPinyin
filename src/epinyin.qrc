@@ -1,0 +1,5 @@
+<RCC>
+    <qresource>
+        <file>ime/dict_pinyin.dat</file>
+    </qresource>
+</RCC>
